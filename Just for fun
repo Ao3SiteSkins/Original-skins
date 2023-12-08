@@ -1,0 +1,466 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+#main,
+#inner,
+.listbox .index,
+.work.own,
+.thread .even {
+  background: #effbf7;
+}
+
+#inner.wrapper {
+  box-shadow: 0 0 5px #000;
+  padding: 3em 0.5em 0.5em 0.5em;
+  background: #69B99D;
+  margin-top: 1em;
+}
+
+#main {
+  border: 1px solid #69B99D;
+}
+
+#outer.wrapper {
+  background: #CCF4E6;
+  padding-top: 1em;
+}
+
+#header .heading a {
+  color: #F7FBFB;
+  position: absolute;
+  right: 0.3em;
+  top: 5.5em;
+}
+
+#header .heading {
+  margin: 1em 0 0 1em;
+  height: 14em;
+  width: 14em;
+  background-color: #CCF4E6;
+  border: 2px solid #F7FBFB;
+  border-radius: 50%;
+  background-image: url("https://i.ibb.co/GdR4dCV/0-102af6-5e6d3db2-orig.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 12em auto;
+}
+
+#header {
+  background: #69B99D url("https://i.ibb.co/wpJYZzV/Light-Effects-156.png") repeat;
+  box-shadow: 0 0 5px #000;
+}
+
+#header .primary {
+  background: none;
+  box-shadow: none;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#greeting {
+  background: none;
+  margin-right: 0em;
+  position: absolute;
+  right: 0em;
+  top: 13em;
+}
+
+#greeting img.icon {
+  box-shadow: 0 0 2px #000;
+  border: 2px solid #fff;
+  margin-right: 0.1em;
+}
+
+#greeting li,
+#greeting li a {
+  color: #FFF !important;
+  background: #69B99D;
+}
+
+#greeting li {
+  margin-right: 0.3em !important;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em !important;
+}
+
+#greeting li:last-child {
+  margin-right: 0em !important;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#footer {
+  border: none;
+  background: none;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #CCF4E6;
+}
+
+#workskin h2,
+#footer,
+#footer .menu,
+#footer a,
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #3a1600;
+}
+
+#footer h4 {
+  color: #900 !important;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #69B99D !important;
+  color: #fff !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #b2e0cd !important;
+  color: #000 !important;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #CCF4E6;
+  color: #000;
+  border: 2px solid #F7FBFB;
+  box-shadow: 0 0 2px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #69B99D;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #b2e0cd !important;
+  color: #000 !important;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #eafaf5;
+  box-shadow: none;
+}
+
+.flash,
+.notice,
+.home .header h2,
+.splash .module h3,
+.splash .news li {
+  border-color: #53351e;
+}
+
+dl.meta,
+li.comment,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #69B99D;
+}
+
+#main .verbose legend,
+li.relationships a,
+.statistics .index li:nth-of-type(even),
+dl.index dd,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #CCF4E6;
+  border-color: #69B99D;
+}
+
+.flash,
+.notice {
+  background-color: #fcffdf;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #e5bd91;
+  border-color: #997e8c;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.comment h4.byline,
+.bookmark .user,
+.bookmark .user .header,
+.bookmark .user .datetime,
+.reading h4.viewed,
+.blurb .datetime,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #b2e0cd;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #69B99D;
+  box-shadow: 0 0 4px #000;
+  border: none;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+dl.meta,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #eafaf5;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #effbf7;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 4px #000;
+  border: 1px solid #69B99D;
+  border-radius: 5px;
+}
+
+.blurb .header {
+  border-bottom: 1px solid #69B99D;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #69B99D;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #773839 !important;
+}
