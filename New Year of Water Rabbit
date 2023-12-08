@@ -1,0 +1,536 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#header .logo {
+  display: none;
+}
+
+#main,
+#inner,
+body,
+.listbox .index {
+  background: #e1eef5;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+body,
+#main,
+#main a,
+input[type="submit"],
+.splash .news li a,
+.actions a:visited,
+.action,
+button,
+#footer,
+#footer .menu,
+#footer a,
+.actions label {
+  color: #344565;
+}
+
+#footer h4 {
+  background: #f4f8fa;
+  color: #344565 !important;
+  border-top: 1px solid #2b434f;
+  border-bottom: 1px solid #2b434f;
+}
+
+.blurb h4 a:link {
+  color: #9f1615 !important;
+}
+
+#footer {
+  float: left;
+  border: none;
+  background: none;
+}
+
+#header .search .text {
+  width: 80%;
+}
+
+#outer.wrapper {
+  background-color: #e1eef5;
+  background-image: url("https://i.ibb.co/rMYN4Nw/Winter-Cat.png"), url("https://i.ibb.co/QvYSsrx/Snow1.png"), url("https://i.ibb.co/yWrQLvF/NewYear1.png");
+  background-repeat: no-repeat, repeat-x, repeat-x;
+  background-position: center 10.5em, center 12em, center top;
+  background-size: auto 9em, auto 18em,  auto 8em;
+  padding-top: 24em;
+}
+
+#header .heading {
+  height: 2em;
+  background: none;
+}
+
+#header {
+  background: none;
+}
+
+#header .heading a {
+  color: #2b434f;
+  position: absolute;
+  top: -2em;
+  right: 0em;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: #f4f8fa;
+  color: #344565;
+  border-top: 1px solid #2b434f;
+  border-bottom: 1px solid #2b434f;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#greeting {
+  background: none;
+  margin-right: 0em;
+}
+
+#header .primary li,
+#header .primary li a,
+#greeting li,
+#greeting li a {
+  color: #344565 !important;
+}
+
+#greeting li {
+  background: #f4f8fa;
+  border: 1px solid #2b434f;
+  box-shadow: 0 0 2px #000;
+  margin-right: 0.5em !important;
+}
+
+#greeting li:last-child {
+  margin-right: 0em !important;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em !important;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#greeting .icon img {
+  box-shadow: 0 0 5px #000;
+  border: 2px solid #fff;
+  margin-right: 8px;
+}
+
+#greeting::before {
+  background-image: url("https://i.ibb.co/zJL6zF1/shapka-right.png");
+  background-size: 20px 40px;
+  display: inline-block;
+  width: 20px;
+  height: 40px;
+  content: "";
+  position: relative;
+  left: 38px;
+  top: 0px;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #f4f8fa;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #2b434f;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #344565 !important;
+  color: #fff !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #e1eef5 !important;
+  color: #344565 !important;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #f4f8fa;
+  color: #344565;
+  border: 2px solid #2b434f;
+  box-shadow: 0 0 5px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #2b434f;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #e1eef5 !important;
+  color: #344565 !important;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.home .header h2,
+.splash .module h3,
+.splash .news li,
+dl.meta,
+li.comment,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #2b434f;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #e0e9ed;
+  border-color: #2b434f;
+}
+
+.flash,
+.notice {
+  background-color: #bad1dc;
+  color: #344565;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background: #fdf9e1;
+  border-color: #2b434f;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.comment h4.byline,
+.listbox,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #bad1dc;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #2b434f;
+  box-shadow: 0 0 5px #000;
+  border: none;
+}
+
+dl.meta,
+p.kudos,
+dl.index dd,
+.statistics .index li:nth-of-type(even),
+.index .blurb,
+li.blurb,
+.listbox li.blurb,
+li.comment,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #f4f8fa;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.relationships a,
+.bookmark .user,
+.reading h4.viewed,
+.work.own,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.thread .even {
+  background-color: #e1eef5;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 4px #000;
+  border: 1px solid #2b434f;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  border: 1px solid #2b434f;
+}
+
+.blurb .datetime {
+  color: #FFF;
+  background: #2b434f;
+}
+
+.bookmark .user .datetime {
+  background-color: #e1eef5;
+  color: #000;
+}
+
+.blurb .header {
+  border-top: 1px solid #2b434f;
+  border-bottom: 1px solid #2b434f;
+  background-color: #e1eef5;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  border: 1px dashed #2b434f;
+  box-shadow: none;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+  width: auto;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.home .primary .icon::after {
+  background-image: url("https://i.ibb.co/zJL6zF1/shapka-right.png");
+  background-size: 50px 80px;
+  display: inline-block;
+  width: 50px;
+  height: 80px;
+  content: "";
+  position: absolute;
+  left: 55px;
+  top: -6px;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+  color: #9f1615;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 95%;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #B85C48 !important;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #fff;
+  box-shadow: none;
+}
