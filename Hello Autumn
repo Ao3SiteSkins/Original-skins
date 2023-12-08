@@ -1,0 +1,486 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+#main,
+.listbox .index,
+.work.own,
+.thread .even {
+  background: #FEEBC0;
+}
+
+#outer.wrapper {
+  padding-top: 80px;
+  background: #7D4324 url("https://i.ibb.co/0KNQn0p/h-49203.jpg") repeat;
+}
+
+#header .heading {
+  height: 200px;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: none;
+}
+
+#header {
+  border-top: 4px solid #3C0D07;
+  border-left: 4px solid #3C0D07;
+  border-right: 4px solid #3C0D07;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: #FEEBC0;
+  background-image: url("https://i.ibb.co/bgj7H5b/0b2777a096924786218c0d0f73f4d5e6-kopija.png");
+  background-repeat: no-repeat;
+  background-position: center 40px;
+  background-size: auto 160px;
+}
+
+#main {
+  border-bottom: 4px solid #3C0D07;
+  border-left: 4px solid #3C0D07;
+  border-right: 4px solid #3C0D07;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+#header .primary li,
+#greeting li {
+  margin: 0.5em 0.3em !important;
+  font-style: italic;
+}
+
+#greeting .icon img {
+  margin: 0.5em 0.1em !important;
+  border: 2px solid #fff;
+}
+
+#header .dropdown .menu li,
+#greeting .dropdown .menu li {
+  margin: 0 0.125em !important;
+}
+
+#header .primary li:not(.search),
+#header .primary li a,
+#greeting li,
+#greeting li a {
+  color: #7D4324 !important;
+  background: #FAE2AA;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+li.relationships a,
+.splash .favorite li:nth-of-type(odd) a {
+  background: #FAE2AA;
+}
+
+#footer {
+  background: none;
+  border: none;
+}
+
+#footer h4 {
+  background: #3C0D07;
+  padding: 0.3em;
+  border: 1px solid #7D4324;
+}
+
+#footer .menu {
+  background: #7D4324;
+  padding: 0.3em;
+  border: 1px solid #3C0D07;
+}
+
+#workskin h2,
+#header .heading a {
+  color: #B30019;
+}
+
+.blurb h4 a:link {
+  color: #B30019 !important;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #7D4324;
+}
+
+.splash .news h3::before {
+  background-image: url("https://i.ibb.co/cc8DzN4/leave.png");
+  background-size: 90px 90px;
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  content: "";
+  z-index: 20;
+  position: absolute;
+  left: -95px;
+  top: 5px;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  font-style: normal;
+  background: #7D4324 !important;
+  color: #fff !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  font-style: normal;
+  background: #FAE2AA !important;
+  color: #000 !important;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #fef5df;
+  color: #000;
+  border: 2px solid #3C0D07;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #3C0D07;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  font-style: normal;
+  background: #FAE2AA !important;
+  color: #000 !important;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #fff;
+  box-shadow: none;
+}
+
+#main.dashboard,
+#dashboard {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.splash .module h3,
+.splash .news li,
+.home .header h2,
+li.comment,
+dl.meta,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #3C0D07;
+}
+
+.flash,
+.notice,
+#main .verbose legend,
+.comment h4.byline,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #e5c7aa;
+  border-color: #3C0D07;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #FFB577;
+  border-color: #900;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.bookmark .user,
+.bookmark .user .header,
+.reading h4.viewed,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #ecddd2;
+}
+
+.filters fieldset {
+  border-radius: 20px;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #7D4324;
+  box-shadow: 0 0 4px #000;
+  border: none;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+.statistics .index li:nth-of-type(even),
+dl.meta,
+dl.index dd,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #fef5df;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.blurb,
+.listbox li.blurb {
+  border-radius: 20px;
+  border: 2px solid #3C0D07;
+}
+
+.blurb .header {
+  border-bottom: 1px solid #3C0D07;
+  border-top: 1px solid #3C0D07;
+  background: #FEEBC0;
+}
+
+.work .header::after {
+  background-image: url("https://i.ibb.co/cc8DzN4/leave.png");
+  background-size: 80px 80px;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  content: "";
+  position: absolute;
+  right: -25px;
+  top: 15px;
+  z-index: 20;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #3C0D07;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #B30019 !important;
+}
