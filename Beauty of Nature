@@ -1,0 +1,532 @@
+#header h1 sup,
+#header .button,
+#header .logo,
+#greeting p.icon {
+  display: none;
+}
+
+#inner.wrapper {
+  margin: 0em 5%;
+}
+
+#outer.wrapper {
+  background-color: #328f00;
+}
+
+#inner.wrapper {
+  background-color: #fff;
+  padding: 0.5em;
+}
+
+#main {
+  border: 2px solid #328f00;
+}
+
+#main,
+body,
+.listbox .index,
+.reading h4.viewed {
+  background: #c1dca5;
+}
+
+body,
+#main,
+#main a,
+input[type="submit"],
+.splash .news li a,
+.actions a:visited,
+.action,
+button,
+.actions label {
+  color: #262c21;
+}
+
+.blurb h4 a:link {
+  color: #d4150a !important;
+}
+
+#header #search .text {
+  width: 70%;
+  opacity: 0.5;
+}
+
+#footer {
+  border: none;
+  background: none;
+}
+
+#header .heading {
+  height: 18em;
+  background: none;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: none;
+}
+
+#header {
+  background-color: #256600;
+  background-image: url("https://i.ibb.co/h1TrmTb/nature-fon1.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  box-shadow: 0 0 30px #000;
+  margin: 4em 1% 2em 1%;
+  border-radius: 5px;
+}
+
+#header .heading a {
+  color: #fff;
+  font-style: italic;
+  position: absolute;
+  left: 5%;
+  top: -2.4em;
+}
+
+#greeting li,
+#greeting li a {
+  color: #fff !important;
+}
+
+#greeting {
+  background: none;
+  margin-right: 0em;
+  position: absolute;
+  right: 5%;
+  top: -4em;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#header .user {
+  padding: 0em;
+}
+
+#greeting li:last-child {
+  margin-right: 0em !important;
+}
+
+#greeting li {
+  border-bottom: 2px solid #fff;
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
+  background: #328f00;
+  border-bottom-right-radius: 80%;
+  border-bottom-left-radius: 80%;
+  padding: 0.3em;
+  margin-left: 1.5em !important;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em !important;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #d9eac9;
+}
+
+.splash .module h3 {
+  border-bottom: 1px solid #328f00;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #328f00;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #d4150a;
+  font-style: italic;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #256600 !important;
+  color: #fff !important;
+}
+
+#dashboard {
+  background: #ecf4e4;
+  border: 5px solid #328f00;
+  box-shadow: 0 0 10px #000;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #c1dca5 !important;
+  color: #262c21 !important;
+}
+
+#dashboard.own {
+  background: #d9eac9;
+  border: 5px solid #328f00;
+  box-shadow: 0 0 10px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border-color: 1px solid #256600;
+}
+
+#greeting .actions a:hover,
+#greeting .actions a:focus,
+#greeting .dropdown:hover a,
+#greeting .dropdown:focus a,
+#greeting .open a {
+  border-bottom-right-radius: 80%;
+  border-bottom-left-radius: 80%;
+  padding: 0.6em;
+  border-bottom: 2px solid #c1dca5;
+  border-left: 2px solid #c1dca5;
+  border-right: 2px solid #c1dca5;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  border-radius: 0%;
+  padding: 0.2em;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: #c1dca5 !important;
+  color: #262c21 !important;
+}
+
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  border-radius: 0% !important;
+}
+
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #256600;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+form .notice,
+form ul.notes,
+.comment h4.byline,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #d9d5d1;
+  border-color: #504E4B;
+}
+
+#dashboard .secondary,
+li.relationships a {
+  background-color: #eceae8;
+}
+
+.flash,
+.notice {
+  background-color: #256600;
+  color: #fff;
+}
+
+.notice {
+  border: 1px solid #000;
+}
+
+.flash a,
+.notice a {
+  color: #fff !important;
+}
+
+
+form .notice,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #F4ECE4;
+}
+
+.filters .submit input {
+  background: #7D7975;
+  color: #fff;
+  border: 1px solid #000;
+}
+
+li.blurb,
+.listbox li.blurb,
+dl.meta,
+li.comment,
+p.kudos,
+#ibox_wrapper,
+#ibox_content,
+.statistics .index li:nth-of-type(even),
+dl.index dd,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #ecf4e4;
+}
+
+textarea,
+input,
+select,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input,
+.bookmark .user,
+.work .own,
+draft,
+.draft .wrapper,
+.unread,
+.unwrangled,
+.unreviewed {
+  background-color: #F5F9F1;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  border: 2px dotted #328f00;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 5px #000;
+  border: 1px solid #328f00;
+  border-radius: 5px;
+}
+
+dl.meta,
+li.comment {
+  border-top: 2px solid #328f00;
+  border-bottom: 2px solid #328f00;
+  border-left: 1px dashed #328f00;
+  border-right: 1px dashed #328f00;
+}
+
+#main .wrapper {
+  box-shadow: none;
+}
+
+.blurb .header {
+  background-color: #d9eac9;
+  border: 1px dotted #328f00;
+  border-radius: 5px;
+}
+
+.thread .even {
+  background-color: #d9eac9;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  border: 1px dotted #328f00;
+  border-radius: 5px;
+  box-shadow: none;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2em;
+  color: #d4150a;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 95%;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #7D7975 !important;
+}
