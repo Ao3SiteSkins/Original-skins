@@ -1,0 +1,506 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#greeting .icon,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+#main,
+.listbox .index,
+.work.own,
+.thread .even {
+  background: #F7F8F0;
+}
+
+#outer.wrapper {
+  padding-top: 100px;
+  background-color: #EDCFC4;
+}
+
+#inner.wrapper {
+  margin-top: 4em;
+  border: 2px dashed #EE7500;
+  background: #f7ebe7;
+  padding: 3.5em 1.5em 1.5em 1.5em;
+}
+
+#main {
+  border: 1px solid #fff;
+}
+
+#header {
+  background: none;
+}
+
+#header .primary {
+  box-shadow: none;
+  border: 2px dashed #EE7500;
+  background: #F7F8F0;
+  position: absolute;
+  top: -30px;
+  left: 0em;
+}
+
+#header .primary::after {
+  background-image: url("https://i.ibb.co/gWG9s3K/Ice-Cream1.png");
+  background-size: 80px 80px;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  content: "";
+  z-index: 99;
+  position: absolute;
+  right: 2%;
+  top: -60px;
+}
+
+#header .heading a {
+  position: absolute;
+  top: -80px;
+  left: 10px;
+}
+
+#header .primary li {
+  margin: 1.5em 0.125em !important;
+}
+
+#greeting {
+  margin-top: 2.8em;
+  margin-right: -0.3em;
+}
+
+#greeting li {
+  background-color: #F7F8F0;
+  border: 2px dashed #EE7500;
+  padding: 0px 20px 60px 20px;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  min-width: 6em;
+}
+
+#greeting li:first-child {
+  background-color: #F7F8F0;
+  background-image: url("https://i.ibb.co/HDGtdcQ/Ice-Cream2.png");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: auto 50px;
+  margin-right: 4em !important;
+}
+
+#greeting li:nth-child(2) {
+  background-color: #F7F8F0;
+  background-image: url("https://i.ibb.co/zH6M7wr/Ice-Cream3.png");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: auto 50px;
+  margin-right: 4em !important;
+}
+
+#greeting li:last-child {
+  background-color: #F7F8F0;
+  background-image: url("https://i.ibb.co/RhyV8gB/Ice-Cream4.png");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: auto 50px;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #EDCFC4;
+}
+
+#greeting li,
+#greeting li a,
+#header .primary li,
+#header .primary li a {
+  color: #EE7500 !important;
+}
+
+#footer {
+  background: none;
+  border: none;
+}
+
+#workskin h2,
+#header .heading a,
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #EE7500;
+}
+
+.blurb h4 a:link,
+#footer h4 {
+  color: #EE7500 !important;
+}
+
+#footer .menu,
+#footer .menu a {
+  color: #666;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #EE7500 !important;
+  color: #fff !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #f7ebe7 !important;
+  color: #000 !important;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #fdfaf9;
+  color: #000;
+  border: 2px solid #EDCFC4;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px dashed #EE7500;
+}
+
+#greeting .actions a:hover,
+#greeting .actions a:focus,
+#greeting .dropdown:hover a,
+#greeting .dropdown:focus a,
+#greeting .open a {
+  border-radius: none !important;
+}
+
+#header .dropdown .menu li,
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  border-radius: 0px;
+  margin: 0.1em 0.125em !important;
+  padding: 0.15em;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: #f7ebe7 !important;
+  color: #000 !important;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.splash .module h3,
+.splash .news li,
+.home .header h2 {
+  border-color: #EE7500;
+}
+
+li.comment,
+dl.meta,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #6d808e;
+}
+
+.flash,
+.notice,
+.comment h4.byline,
+#main .verbose legend,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #CDCFDB;
+  border-color: #6d808e;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #E0B4A4;
+  border-color: #C39693;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.bookmark .user,
+.bookmark .user .header,
+.reading h4.viewed,
+li.relationships a,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #e1e2e9;
+}
+
+.bookmark .user {
+  border-radius: 5px;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #6d808e;
+  box-shadow: 0 0 4px #000;
+  border: none;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+.statistics .index li:nth-of-type(even),
+dl.meta,
+dl.index dd,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #fdfaf9;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 4px #666;
+  border: 1px dashed #EE7500;
+  border-radius: 10px;
+}
+
+.blurb .header {
+  border-bottom: 1px solid #EE7500;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #6d808e;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #7DC2DF !important;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
