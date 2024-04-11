@@ -8,6 +8,8 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 | ![Butterflies purple](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Butterfliespurple.png "Butterflies purple") | <a href="https://archiveofourown.org/works/51412987">Butterflies (purple)</a> |
 | ![Hello Autumn](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/HelloAutumn.png "Hello Autumn") | <a href="https://archiveofourown.org/works/50345023">Hello Autumn</a> |
 | ![Ice cream time](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Icecreamtime.png "Ice cream time") | <a href="https://archiveofourown.org/works/48230536">Ice cream time</a> |
+| ![Calm and beauty](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Calmandbeauty.png "Calm and beauty") | <a href="https://archiveofourown.org/works/47402725">Calm and beauty</a> |
+
 
 
 
