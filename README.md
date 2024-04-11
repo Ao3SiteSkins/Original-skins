@@ -10,7 +10,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 | ![Ice cream time](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Icecreamtime.png "Ice cream time") | <a href="https://archiveofourown.org/works/48230536">Ice cream time</a> |
 | ![Calm and beauty](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Calmandbeauty.png "Calm and beauty") | <a href="https://archiveofourown.org/works/47402725">Calm and beauty</a> |
 | ![Poppy flowers](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Poppyflowers.png "Poppy flowers") | <a href="https://archiveofourown.org/works/47314081">Poppy flowers</a> |
-| ![Piece of paper](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Poppyflowers1.png "Piece of paper") | <a href="https://archiveofourown.org/works/48274822">Piece of paper</a> |
+| ![Piece of paper](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Pieceofpaper.png "Piece of paper") | <a href="https://archiveofourown.org/works/48274822">Piece of paper</a> |
 | ![Just for fun](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Justforfun.png "Just for fun") | <a href="https://archiveofourown.org/works/45407854">Just for fun</a> |
 | ![Winter Cherry](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/WinterCherry.png "Winter Cherry") | <a href="https://archiveofourown.org/works/44369359">Winter Cherry</a> |
 | ![Cup of Tea](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/CupofTea.png "Cup of Tea") | <a href="https://archiveofourown.org/works/43940451">A Cup of Tea</a> |
