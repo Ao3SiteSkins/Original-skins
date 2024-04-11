@@ -17,6 +17,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 | ![Ficbook Style](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/FicbookStyle.png "Ficbook Style") | <a href="https://archiveofourown.org/works/43594614">Similar to Ficbook Style</a> |
 | ![Winter Snow Forest](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/WinterSnowForest.png "Winter Snow Forest") | <a href="https://archiveofourown.org/works/43584939">Winter Snow Forest</a> |
 | ![Winter Time](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/WinterTime.png "Winter Time") | <a href="https://archiveofourown.org/works/43428925">Winter Time</a> |
+| ![New Year 2023](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/WinterTime.png "New Year 2023") | <a href="https://archiveofourown.org/works/43279062">New Year of Water Rabbit/Cat 2023</a> |
 
 
 
