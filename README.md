@@ -14,7 +14,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 | ![Just for fun](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Justforfun.png "Just for fun") | <a href="https://archiveofourown.org/works/45407854">Just for fun</a> |
 | ![Winter Cherry](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/WinterCherry.png "Winter Cherry") | <a href="https://archiveofourown.org/works/44369359">Winter Cherry</a> |
 | ![Cup of Tea](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/CupofTea.png "Cup of Tea") | <a href="https://archiveofourown.org/works/43940451">A Cup of Tea</a> |
-| ![Ficbook Style](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Poppyflowers1.png "Ficbook Style") | <a href="https://archiveofourown.org/works/43594614">Similar to Ficbook Style</a> |
+| ![Ficbook Style](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/FicbookStyle.png "Ficbook Style") | <a href="https://archiveofourown.org/works/43594614">Similar to Ficbook Style</a> |
 
 
 
