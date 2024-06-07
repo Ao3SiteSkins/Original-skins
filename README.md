@@ -4,6 +4,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 ### List of skins
 | Screenshots | Name and Link to Ao3 |
 | --- | --- |
+| ![Lovely birds](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/prevScreen.png "Lovely birds") | <a href="https://archiveofourown.org/works/56457241">Lovely birds</a>  |
 | ![Butterflies green](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Butterfliesgreen.png "Butterflies green") | <a href="https://archiveofourown.org/works/51412624">Butterflies (green)</a>  |
 | ![Butterflies purple](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Butterfliespurple.png "Butterflies purple") | <a href="https://archiveofourown.org/works/51412987">Butterflies (purple)</a> |
 | ![Hello Autumn](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/HelloAutumn.png "Hello Autumn") | <a href="https://archiveofourown.org/works/50345023">Hello Autumn</a> |
