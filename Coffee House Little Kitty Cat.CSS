@@ -250,6 +250,14 @@ ul.notes,
   color: #000;
 }
 
+form .notice a,
+ul.notes a,
+.caution a {
+  background-color: #FFEEDA;
+  border-color: #997e8c;
+  color: #000;
+}
+
 .alert.flash,
 .error,
 .comment_error,
