@@ -4,6 +4,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 ### List of skins
 | Screenshots | Name and Link to Ao3 |
 | --- | --- |
+| ![Teatime](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Teatime.png) | <a href="https://archiveofourown.org/works/64506415">Teatime</a>  |
 | ![Love Reading](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/LoveReading1.png) | <a href="https://archiveofourown.org/works/64472116">Love Reading</a>  |
 | ![Snowman](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Snowman_main.png) | <a href="https://archiveofourown.org/works/61712920">Snowman</a>  |
 | ![Love Read Blog](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/LoveReadBlog.png) | <a href="https://archiveofourown.org/works/60897484">Love Read Blog</a>  |
