@@ -1,0 +1,465 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  max-width: 980px;
+  margin: 0em auto 0em auto;
+}
+
+#outer.wrapper,
+#inner.wrapper,
+#main,
+.listbox .index,
+.thread .even,
+.work.own {
+  background: #F9FFFF;
+}
+
+#header .heading {
+  height: 300px;
+  background: none;
+}
+
+#header {
+  background-color: #F9FFFF;
+  background-image: url("https://images2.imgbox.com/50/09/dmslzRs1_o.jpg"), url("https://images2.imgbox.com/ba/9a/oCFvuCun_o.png");
+  background-repeat: no-repeat, repeat-x;
+  background-position: bottom 40px right, bottom left;
+  background-size: auto 270px, auto 40px;
+}
+
+#header .heading a {
+  font-size: 2.2em;
+  line-height: 1.2em;
+  text-transform: titlecase;
+  letter-spacing: .1em;
+  color: #303841;
+  position: absolute;
+  left: 0em;
+  top: 0em;
+}
+
+#header .primary {
+  background: #C9D6DF;
+  width: 9em;
+  height: 14em;
+  position: absolute;
+  top: 4em;
+  left: 0em;
+  box-shadow: none;
+  border-top: 8px solid #303841;
+  border-bottom: 8px solid #303841;
+}
+
+#header .dropdown .menu {
+  min-width: 19em;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#header #search .text {
+  width: 8em;
+  background: #F0F5F9;
+  border: 1px solid #303841;
+  position: absolute;
+  top: 5em;
+  right: -0.8em;
+}
+
+#greeting li,
+#greeting li a,
+#header .primary li,
+#header .primary li a {
+  color: #303841 !important;
+}
+
+#greeting {
+  background: none;
+  position: absolute;
+  top: 270px;
+  right: 0px;
+}
+
+#greeting li {
+  background: #C9D6DF;
+  border: 1px solid #F0F5F9;
+  border-radius: 5px;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#greeting .icon img {
+  border-radius: 5px;
+  border: 2px solid #F0F5F9;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #C9D6DF;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #303841;
+}
+
+#workskin h2,
+.preface h3 a {
+  color: #900;
+}
+
+#footer {
+  background: #303841;
+  border-color: #C9D6DF;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #303841 !important;
+  color: #fff !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #F0F5F9 !important;
+  color: #000 !important;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #303841;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #F0F5F9 !important;
+  color: #000 !important;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#dashboard,
+#dashboard.own {
+  color: #000;
+  background: #C9D6DF;
+  box-shadow: 0 0 2px #000;
+  border: 2px solid #303841;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: rgba(250,250,250,0.7);
+  box-shadow: none;
+}
+
+.splash .module h3,
+.splash .news li,
+.home .header h2,
+li.comment,
+dl.meta,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #303841;
+}
+
+.comment h4.byline,
+#main .verbose legend,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #BCC6CE;
+  border-color: #303841;
+}
+
+.flash,
+.notice {
+  background-color: #B0C3D1;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #FFEEDA;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+li.relationships a,
+.listbox,
+.bookmark .user,
+.bookmark .user .header,
+.reading h4.viewed,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #C9D6DF;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #303841;
+  box-shadow: 0 0 4px #000;
+  border: none;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+.statistics .index li:nth-of-type(even),
+dl.meta,
+dl.index dd,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background: #F0F5F9;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 4px #000;
+  border-top: 4px solid #303841;
+  border-bottom: 4px solid #303841;
+}
+
+.bookmark .user {
+  border-radius: 5px;
+}
+
+.blurb .header {
+  border-bottom: 1px solid #303841;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #303841;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #B9848C !important;
+  border-top: 1px solid #303841;
+  border-bottom: 1px solid #303841;
+}
