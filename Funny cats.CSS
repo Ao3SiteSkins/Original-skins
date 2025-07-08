@@ -1,0 +1,541 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#greeting .icon,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  max-width: 1050px;
+  margin: 0em auto 0em auto;
+}
+
+#main,
+.listbox .index,
+.work.own,
+.thread .even,
+#outer.wrapper,
+#inner.wrapper,
+#header,
+li.relationships a {
+  background-color: #F2E2D3;
+}
+
+#inner.wrapper {
+  margin-top: 1em;
+}
+
+#header .heading {
+  height: 280px;
+  width: 55%;
+  margin-top: 10px;
+  background-color: #F2E2D3;
+  background-image: url("https://images2.imgbox.com/a7/4b/BAIJe15Y_o.jpg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain;
+}
+
+#header .heading a {
+  color: #6a7486;
+  font-size: 1.875em;
+  line-height: 1.2;
+  letter-spacing: .05em;
+  position: absolute;
+  top: 0em;
+  left: 0.5em;
+  max-width: 50%;
+}
+
+#header .primary {
+  box-shadow: 0 0 2px #000;
+  background: #6a7486;
+  border-bottom: 1px dashed #fff;
+  border-top: 1px dashed #fff;
+}
+
+.flash,
+.notice,
+#dashboard {
+  background: rgba(106, 116, 134, 0.4);
+}
+
+#dashboard {
+  border: 2px solid #6a7486;
+}
+
+#dashboard .secondary {
+  background-color: rgba(255,255,255,0.5);
+  box-shadow: none;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#header .primary li,
+#header .primary li a {
+  color: #fff !important;
+  background: #6a7486;
+}
+
+#greeting {
+  width: 40%;
+  margin-right: 0em;
+  margin-top: 5px;
+  background: #F2E2D3;
+}
+
+#greeting li,
+#greeting li a {
+  color: #fff !important;
+  background: #6a7486;
+}
+
+#header #greeting a.dropdown-toggle[href*="/users/"] {
+  visibility: hidden;
+  overflow: hidden;
+  letter-spacing: -200em;
+  color: #fff !important;
+}
+
+#header #greeting a.dropdown-toggle[href*="/users/"]::before {
+  letter-spacing: 0;
+  visibility: visible;
+  content: "Hi, dear user!";
+  color: #fff !important;
+}
+
+#header #greeting a[href*="/users/logout"] {
+  background-image: url(https://images2.imgbox.com/ef/4c/vZbFYZH6_o.png);
+}
+
+#header #greeting a[href*="/users/logout"] {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  text-indent: -9999px;
+  line-height: 0;
+}
+
+#header > nav .user {
+  column-gap: 0.3em;
+}
+
+#greeting > ul > li:nth-child(1) {
+  display: flex;
+  flex-direction: column;
+}
+
+#greeting > ul > li:nth-child(1) > ul {
+  display: flex !important;
+  position: static;
+  width: auto;
+  background-color: inherit;
+  background-image: none;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  flex-direction: column;
+}
+
+#greeting > ul > li:nth-child(1) > ul > li {
+  margin: 0;
+  border-color: #6a7486;
+}
+
+#greeting > ul > li:nth-child(1) > ul > li:nth-child(7),
+#greeting > ul > li:nth-child(1) > ul > li:nth-child(2) {
+  display: none;
+}
+
+#greeting > ul > li:nth-child(1) > ul > li:nth-child(6) {
+  border-bottom: none;
+}
+
+#greeting > ul > li:nth-child(2) {
+  display: flex;
+  flex-direction: column;
+}
+
+#greeting > ul > li:nth-child(2) > ul {
+  display: flex !important;
+  position: static;
+  width: auto;
+  background-color: inherit;
+  background-image: none;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  flex-direction: column;
+}
+
+#greeting > ul > li:nth-child(2) > ul > li {
+  margin: 0;
+  border-color: #6a7486;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em !important;
+}
+
+#greeting .menu {
+  max-width: 16em;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #d4c49c;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #6a7486;
+}
+
+.blurb h4 a:link {
+  color: #900 !important;
+}
+
+#workskin h2,
+.preface h3 a {
+  color: #6a7486;
+}
+
+#footer {
+  background: #6a7486;
+  border: none;
+}
+
+#header #search .text {
+  background: rgba(250, 250, 250, 0.8) !important;
+  border: 1px solid #fff;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #6a7486 !important;
+  color: #fff !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #d4c49c !important;
+  color: #000 !important;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #6a7486;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #d4c49c !important;
+  color: #000 !important;
+}
+
+.splash .module h3,
+.splash .news li,
+.home .header h2 {
+  border-color: #6a7486;
+}
+
+#dashboard.own,
+li.comment,
+dl.meta,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #795A46;
+}
+
+.comment h4.byline,
+#main .verbose legend,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #beb08c;
+  border-color: #795A46;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #F3D494;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+#dashboard.own,
+li.comment,
+.listbox,
+.bookmark .user,
+.bookmark .user .header,
+.reading h4.viewed,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #dccfaf;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #6a7486;
+  box-shadow: 0 0 4px #000;
+  border: none;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+.statistics .index li:nth-of-type(even),
+dl.meta,
+dl.index dd,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background: rgba(255,256,255, 0.6);
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 2px #000;
+  border-bottom: 8px solid #6a7486;
+  border-top: 8px solid #6a7486;
+  border-left: 2px solid #6a7486;
+  border-right: 2px solid #6a7486;
+  border-radius: 4px;
+}
+
+.bookmark .user {
+  border-radius: 5px;
+}
+
+.blurb .header {
+  border-bottom: 1px solid #6a7486;
+}
+
+#dashboard ul,
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #795A46;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #dd7369 !important;
+}
