@@ -1,0 +1,1118 @@
+#header {
+
+  background-image: url("https://pin.it/3QMKwJhpi
+");
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  background-position: center center;
+
+  background-color: #152623;
+
+}
+
+
+
+#header .logo,
+
+#header h1 sup {
+
+  display: none !important;
+
+}
+
+
+
+#header h1 {
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  height: 15em;
+
+  margin: 0;
+
+}
+
+
+
+#header h1 a::before {
+
+  content: "   ✨Jellyfish Archive✨ ";
+
+  display: block;
+
+  font-size: 2em;
+
+  font-weight: bold;
+
+  font-family: 'Georgia', serif;
+
+  font-variant: small-caps;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  color: #a3c7ff;
+
+  text-shadow: 0 0 10px #1f3a70;
+
+}
+
+
+
+#header h1 a span {
+
+  display: none !important;
+
+}
+
+
+
+#header {
+
+  background-image: url("https://i.imgur.com/ITYcAOo.jpeg
+");
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  background-position: center center;
+
+  background-color: #152623;
+
+}
+
+
+
+#header .logo,
+
+#header h1 sup {
+
+  display: none !important;
+
+}
+
+
+
+#header h1 {
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  height: 15em;
+
+  margin: 0;
+
+}
+
+
+
+#header h1 a::before {
+
+  content: "   ✨Jellyfish Archive✨ ";
+
+  display: block;
+
+  font-size: 2em;
+
+  font-weight: bold;
+
+  font-family: 'Georgia', serif;
+
+  font-variant: small-caps;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  color: #a3c7ff;
+
+  text-shadow: 0 0 10px #1f3a70;
+
+}
+
+
+
+#header h1 a span {
+
+  display: none !important;
+
+}
+
+
+
+#header .heading {
+
+  height: 15em;
+
+}
+
+
+
+#header .primary {
+
+  background: #0d1d1f;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+#header .logo,
+
+#header .heading sup {
+
+  visibility: hidden;
+
+}
+
+
+
+#header .heading a {
+
+  color: #4a7dbd;
+
+  text-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+.event .userstuff {
+
+  background: #305f8e;
+
+  border: 1px solid #a3c7ff;
+
+}
+
+
+
+#outer.wrapper {
+
+  background: #0d1d1f;
+
+  color: #a3c7ff;
+
+}
+
+
+
+#main a {
+
+  color: #4a7dbd;
+
+}
+
+
+
+#greeting a.dropdown-toggle,
+
+#header .actions a {
+
+  color: #a3c7ff !important;
+
+  text-shadow: 0px 0px 3px #1f3a70;
+
+}
+
+
+
+#greeting .menu,
+
+#header .dropdown .menu,
+
+#header .dropdown:hover a {
+
+  background: #0d1d1f;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+span.submit.actions input.button {
+
+  display: none;
+
+}
+
+
+
+#greeting img.icon {
+
+  display: none;
+
+}
+
+
+
+#header #search .text,
+
+.search [role="tooltip"] {
+
+  background: #0d1d1f;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+  color: #a3c7ff !important;
+
+  border: 1px solid #0d1d1f;
+
+}
+
+
+
+form.search input[type=text],
+
+form.search input[type=submit],
+
+.autocomplete div.dropdown ul {
+
+  background: #0d1d1f !important;
+
+  border: none;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+  color: #a3c7ff;
+
+  display: block;
+
+}
+
+
+
+#header #search .text {
+
+  width: 7em;
+
+}
+
+
+
+.notice,
+
+.comment_notice,
+
+.kudos_notice,
+
+ul.notes,
+
+.caution,
+
+.error,
+
+.comment_error,
+
+.kudos_error,
+
+.alert.flash {
+
+  background: #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff !important;
+
+  color: #1f3a70;
+
+  border: none;
+
+}
+
+
+
+.notice a,
+
+.comment_notice a,
+
+.kudos_notice a,
+
+ul.notes a,
+
+.caution a,
+
+.error a,
+
+.comment_error a,
+
+.kudos_error a,
+
+.alert.flash a {
+
+  color: #305f8e;
+
+  font-weight: bold;
+
+}
+
+
+
+.splash .module h3 {
+
+  color: #a3c7ff;
+
+  border-bottom: 2px solid #a3c7ff;
+
+}
+
+
+
+.splash .favorite li:nth-of-type(2n+1) a {
+
+  background: #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+  color: #1f3a70;
+
+  font-weight: bold;
+
+  font-variant: small-caps;
+
+}
+
+
+
+.splash .favorite li:nth-of-type(2n+2) a {
+
+  color: #a3c7ff;
+
+  font-weight: bold;
+
+  font-variant: small-caps;
+
+  font-size: 110%;
+
+}
+
+
+
+.splash .favorite li:nth-of-type(2n+1) a:hover,
+
+.splash .favorite li:nth-of-type(2n+2) a:hover {
+
+  color: #a3c7ff;
+
+  font-weight: bold;
+
+  font-variant: small-caps;
+
+  background: #305f8e;
+
+}
+
+
+
+#footer {
+
+  background: #305f8e;
+
+  color: #a3c7ff;
+
+  border-top: 3px solid #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+#footer a,
+
+#footer .heading {
+
+  color: #a3c7ff;
+
+}
+
+
+
+.actions a,
+
+.actions a:focus,
+
+.actions input:focus,
+
+.action:focus,
+
+.actions li input,
+
+.actions li input[type="submit"],
+
+input[type="submit"],
+
+.actions li label,
+
+ul.navigation.actions li a,
+
+.action:link,
+
+.actions a:link {
+
+  background: #305f8e;
+
+  border: 1px solid #a3c7ff;
+
+  color: #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+  border-radius: 5px;
+
+}
+
+
+
+.current,
+
+#dashboard .current {
+
+  background: #a3c7ff !important;
+
+  color: #1f3a70 !important;
+
+  box-shadow: 0px 0px 15px #a3c7ff !important;
+
+  border-radius: 5px;
+
+}
+
+
+
+#dashboard.own {
+
+  border-top: 5px solid #a3c7ff;
+
+  border-bottom: 5px solid #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+#dashboard a:hover {
+
+  background: #a3c7ff;
+
+  color: #000 !important;
+
+}
+
+
+
+#dashboard a {
+
+  color: #a3c7ff;
+
+}
+
+
+
+dl.meta {
+
+  border: 1px solid #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+.listbox .index {
+
+  background: #0d1d1f;
+
+}
+
+
+
+.listbox,
+
+fieldset fieldset.listbox {
+
+  background: #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+form dl,
+
+fieldset,
+
+fieldset fieldset,
+
+fieldset fieldset fieldset,
+
+fieldset fieldset dl dl,
+
+dd.hideme,
+
+form blockquote.userstuff,
+
+input,
+
+select,
+
+select:focus,
+
+textarea,
+
+span.symbol.question,
+
+.own {
+
+  background: #0d1d1f !important;
+
+  color: #a3c7ff !important;
+
+  border: 1px solid #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+.autocomplete li.added,
+
+.post .meta dd ul li.added,
+
+label,
+
+label.required {
+
+  color: #a3c7ff;
+
+}
+
+
+
+span.delete {
+
+  background: #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+span.delete a {
+
+  color: #1f3a70 !important;
+
+  font-weight: bold;
+
+}
+
+
+
+.ui-sortable li,
+
+.dynamic form,
+
+div.dynamic {
+
+  background: #0d1d1f;
+
+  border: 1px solid #a3c7ff;
+
+}
+
+
+
+.dropdown {
+
+  background: #0d1d1f;
+
+}
+
+
+
+form.verbose legend,
+
+.verbose form legend {
+
+  background: #a3c7ff;
+
+  color: #1f3a70;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+li.blurb {
+
+  border: 1px solid #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+.draft {
+
+  background: #0d1d1f;
+
+  color: #a3c7ff;
+
+  border: 2px dashed #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+.draft .wrapper {
+
+  background: #0d1d1f;
+
+  border: 1px solid #a3c7ff;
+
+}
+
+
+
+#header h2 {
+
+  background: #a3c7ff !important;
+
+  color: #1f3a70;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+#stat_chart svg {
+
+  filter: invert(90%) sepia(150%) brightness(60%) hue-rotate(210deg) saturate(120%);
+
+}
+
+
+
+.reading h4.viewed,
+
+dl.index dd,
+
+table,
+
+th,
+
+dt.child {
+
+  background: #0d1d1f;
+
+}
+
+
+
+#modal,
+
+span.replied {
+
+  background: #0d1d1f;
+
+  color: #a3c7ff;
+
+  border: 2px solid #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+h4.heading.byline {
+
+  background: #a3c7ff;
+
+  color: #1f3a70;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+li.comment {
+
+  border: 1px solid #a3c7ff;
+
+}
+
+
+
+.comment div.icon {
+
+  border-bottom: 5px solid #a3c7ff;
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+.thread .even {
+
+  background: #305f8e;
+
+}
+
+
+
+.unread {
+
+  background: #0d1d1f;
+
+  border: 5px dashed #a3c7ff !important;
+
+}
+
+
+
+span.unread {
+
+  background: #a3c7ff;
+
+  color: #1f3a70;
+
+}
+
+
+
+span.indicator::before {
+
+  box-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+.warnings .tag,
+
+.work .warning a.tag,
+
+dd.warning.tags a {
+
+  border: 1px solid #a3c7ff;
+
+  border-radius: 5px;
+
+  background: #a3c7ff;
+
+  padding-left: 2px;
+
+  padding-right: 2px;
+
+  box-shadow: 0px 0px 10px #a3c7ff;
+
+}
+
+
+
+.relationships .tag,
+
+.work .relationships a.tag,
+
+dd.relationship.tags a {
+
+  background: none;
+
+  color: #a3c7ff !important;
+
+  font-weight: bold;
+
+  text-shadow: 0px 0px 15px #a3c7ff;
+
+}
+
+
+
+.filters .expander {
+
+  background: url("https://64.media.tumblr.com/3c89981f933f9f57157d6dcec6fd85a7/94c6737c6db9ad60-e5/s1280x1920/f7557e617a5439c506721bd326580a0cb4c1f8d8.png
+") left center no-repeat;
+
+  color: #a3c7ff !important;
+
+  font-weight: bold;
+
+}
+
+
+
+.filters .expanded .expander {
+
+  background: url("https://64.media.tumblr.com/dab095a2fd9387bc1e0c57747ba6b13f/94c6737c6db9ad60-ad/s1280x1920/c1a4e14e0565cdcac5d3e20bebac3ab440f2d607.png
+") left center no-repeat;
+
+}
+
+
+
+span.rating-general-audience.rating,
+
+span.category-gen.category,
+
+span.complete-yes.iswip {
+
+  filter: sepia(30%) saturate(60%) brightness(70%) contrast(160%) hue-rotate(210deg);
+
+}
+
+
+
+span.rating-teen.rating {
+
+  filter: invert(90%) brightness(130%) hue-rotate(210deg) saturate(70%);
+
+}
+
+
+
+span.category-slash.category {
+
+  filter: brightness(150%) saturate(40%) hue-rotate(210deg);
+
+}
+
+
+
+span.category-het.category {
+
+  filter: brightness(170%) saturate(40%) contrast(80%) hue-rotate(200deg);
+
+}
+
+
+
+span.category-multi.category {
+
+  filter: brightness(120%) saturate(40%) sepia(130%) hue-rotate(110deg);
+
+}
+
+
+
+span.rating-mature.rating,
+
+span.warning-choosenotto.warnings {
+
+  filter: saturate(40%) hue-rotate(130deg) brightness(80%) contrast(120%);
+
+}
+
+
+
+span.rating-notrated.rating,
+
+span.category-none.category,
+
+span.warning-no.warnings {
+
+  filter: brightness(0) saturate(100%) invert(15%) sepia(40%) saturate(400%) hue-rotate(200deg) brightness(85%) contrast(105%);
+
+}
+
+
+
+span.rating-explicit.rating,
+
+span.category-femslash.category,
+
+span.warning-yes.warnings,
+
+span.complete-no.iswip {
+
+  filter: hue-rotate(200deg) contrast(80%) saturate(80%) brightness(120%);
+
+}
+
+
+
+.blurb h4 a:visited {
+
+  color: #2c5a99 !important;
+
+}
+
+
+
+#main a:hover {
+
+  background: #a3c7ff;
+
+  color: #000;
+
+}
+
+
+
+.statistics .index li:nth-of-type(2n) {
+
+  background: #0d1d1f;
+
+}
+
+
+
+p.kudos {
+
+  background: none !important;
+
+  position: relative;
+
+  padding-left: 70px;
+
+  min-height: 50px;
+
+}
+
+
+
+p.kudos::before {
+
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+
+  left: -10px;
+
+  transform: translateY(-50%);
+
+  width: 80px;
+
+  height: 80px;
+
+  background: url("https://i.imgur.com/brVPcxo.png
+") no-repeat center center;
+
+  background-size: contain;
+
+}
+
+
+
+.notice,
+
+.comment_notice,
+
+.kudos_notice,
+
+ul.notes,
+
+.caution,
+
+.error,
+
+.comment_error,
+
+.kudos_error,
+
+.alert.flash {
+
+  background: #bfeefe;
+
+  border: 1px solid #bfeefe;
+
+  color: #021423;
+
+  margin: .643em auto;
+
+  padding: .25em .375em;
+
+  clear: right;
+
+  box-shadow: none;
+
+  border-radius: .05em;
+
+}
+
+
+
+fieldset {
+
+  background-image: url("https://w0.peakpx.com/wallpaper/333/905/HD-wallpaper-the-magic-of-the-sea-blue-jellyfish-superb.jpg
+") !important;
+
+  background-repeat: repeat !important;
+
+  background-position: top left !important;
+
+  background-size: 380px !important;
+
+  background-color: transparent !important;
+
+  color: #ffffff !important;
+
+  border: 1px solid #ffffff !important;
+
+  box-shadow: none !important;
+
+  position: relative;
+
+  z-index: 1;
+
+  text-shadow: 0 0 3px #000;
+
+}
+
+
+
+.toggled form,
+
+.dynamic form {
+
+  padding: .5em !important;
+
+  border: 1px solid #ffffff !important;
+
+  background-image: url("https://w0.peakpx.com/wallpaper/333/905/HD-wallpaper-the-magic-of-the-sea-blue-jellyfish-superb.jpg
+") !important;
+
+  background-repeat: repeat !important;
+
+  background-position: top left !important;
+
+  background-size: 380px !important;
+
+  background-color: transparent !important;
+
+  color: #ffffff !important;
+
+  box-shadow: none !important;
+
+  position: relative;
+
+  z-index: 1;
+
+  text-shadow: 0 0 3px #000;
+
+}
